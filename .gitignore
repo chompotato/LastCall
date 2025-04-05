@@ -46,4 +46,8 @@ crashlytics-build.properties
 .Trashes
 Icon?
 ehthumbs.db
-Thumbs.db 
+Thumbs.db
+
+# Installer files
+**/Claude-Setup*.exe
+**/CursorUserSetup*.exe 
